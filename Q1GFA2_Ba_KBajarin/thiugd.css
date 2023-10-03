@@ -1,0 +1,26 @@
+.banner{
+    background-image: url(DZIE.jpg); height: 208px;
+}
+.banner a{ position:absolute; padding:3px; background-color: azure; border: 1px solid black; right:50%; bottom: 50%; padding: 1px;}
+#imgar{width: 600px; height: 150px; left:50vh;
+}
+.links1{
+    display:block;
+    float:left;
+    position:relative;
+    
+}
+.backgrounf{
+    position:absolute;
+
+}
+#links2{
+    float:right;
+    margin:10px;
+     padding:10px;
+      border:1px solid black;
+      background-color:aqua;
+    display:inline;
+    float:right;
+}
+.left{display:block;} 
